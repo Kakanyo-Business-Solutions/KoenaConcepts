@@ -1,2 +1,2 @@
 # KoenaConcepts
-This is where the KC new website is hosted for testing
+ This is where the new KC website is hosted for testing
